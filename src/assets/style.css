@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "Metropolis";
+	src: url("./metropolis-regular.ttf");
+	font-weight: normal;
+}
+@font-face {
+	font-family: "MetropolisBold";
+	src: url("./metropolis-semibold.ttf");
+	font-weight: bold;
+}
+
+:root {
+	--header-height: 80px;
+	--footer-height: 100px;
+
+	--uni-y: #ffdd00;
+	--uni-b: #231f20;
+	--uni-g: #595959;
+	--uni-l: #fcfcfc;
+	--uni-c: #00aea9;
+	--verde: #32ba2b;
+	--vermelho: #e74c3c;
+	--accent: #eee;
+
+	--max-width: 100%;
+	--column-width: 800px;
+
+	--button-size: 28px;
+
+	--light-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+	--hard-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+
+	--fonte-padrao: "Metropolis", sans-serif;
+}

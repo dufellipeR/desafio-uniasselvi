@@ -1,0 +1,43 @@
+[
+    {
+        "id": "artigo-1",
+        "titulo": "Direito à Saúde",
+        "autor": [
+            "Márcio Pereira de Sousa"
+        ],
+        "resumo": "O direito à saúde, elevado à categoria dos direitos fundamentais, por estar interligado ao direito à vida e à existência digna, representa um dos fundamentos da República Federativa do Brasil, sendo considerado pela doutrina e legislação uma obrigação do Estado e uma garantia de todo o cidadão."
+    },
+    {
+        "id": "artigo-2",
+        "titulo": "Direito à Educação",
+        "autor": [
+            "Danyllo Pereira de Sousa"
+        ],
+        "resumo": "O senso comum tende a tratar os Direitos Humanos de maneira equivocada, pois algumas confusões de categoria são cometidas quando se fala do assunto. Vou falar um pouco sobre os direitos da educação, e qual o seu dever, para garantir seus direitos sobre a educação. "
+    },
+    {
+        "id": "artigo-3",
+        "titulo": "Direito à Alimentação",
+        "autor": [
+            "Romeo Pereira de Sousa",
+            "Cloves Silva"
+        ],
+        "resumo": "O direito à alimentação é um direito incluído na Constituição do Brasil em 2010. Foi inserido como direito social no Artigo 6º da Constituição Federal, após a Emenda Constitucional 64/2010."
+    },
+    {
+        "id": "artigo-4",
+        "titulo": "Direito à Saúde",
+        "autor": [
+            "Soraia Silveira Mira de Aquino"
+        ],
+        "resumo": "O artigo 196 diz: Saúde é direito de todos. É dever do estado garantir a saúde por meio de políticas sociais e econômicas. O objetivo é reduzir o risco de doença com acesso universal e igualitário às ações de proteção e recuperação."
+    },
+    {
+        "id": "artigo-5",
+        "titulo": "Direito ao Trabalho",
+        "autor": [
+            "Danyllo Pereira de Sousa"
+        ],
+        "resumo": "Direito do trabalho é o ramo jurídico que estuda as relações de trabalho. Esse direito é composto de conjuntos de normas, princípios e outras fontes jurídicas que regem as relações de trabalho, regulamentando a condição jurídica dos trabalhadores."
+    }
+]
