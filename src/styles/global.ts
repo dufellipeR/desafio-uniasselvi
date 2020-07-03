@@ -65,11 +65,11 @@ export const Header = styled.header`
   background: var(--uni-y);
   height: var(--header-height);
   width: 100%;
-  margin-bottom: 5%;
+  margin-bottom: 3%;
   padding: 2%;
 `;
 export const Title = styled.h1`
-  font-size: 38px;
+  font-size: 1.75rem;
   color: #3a3a3a;
   max-width: 450px;
   line-height: 30px;

@@ -11,13 +11,30 @@ export const Container = styled.div`
 
 export const Main = styled.main`
   margin: 2%;
+
+  h3 {
+    font-size: 1.25rem;
+    text-align: center;
+  }
+
+  label {
+    font-size: 0.7rem;
+  }
+
+  #filters {
+    .filter-group {
+      display: flex;
+      justify-content: space-between;
+      width: 210px;
+    }
+  }
 `;
 
 export const Artigo = styled.div`
   margin: 2%;
 
   &:hover {
-    box-shadow: var(--hard-shadow);
+    box-shadow: var(--light-shadow);
   }
 
   a {
