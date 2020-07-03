@@ -1,11 +1,21 @@
-Template React - Typescript
-============
+FIRST STEPS TO SERVE:
 
-Tools
+# Install the dependencies
+$ yarn
 
-**Prettier**
-**Eslint**
-**EditorConfig**
+# Start the client
+$ yarn start
 
-Install EditorConfig to your VSCODE
+# Acess the client
+$ localhost:3000
 
+FIRST STEPS TO BUILD:
+
+# Create  build
+$ yarn build
+
+# Start Build Server
+$ serve -s build
+
+# Acess the Build
+$ localhost:5000

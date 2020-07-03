@@ -4,10 +4,10 @@ Ao clicar em um dos artigos, deverá mostrar a informação detalhada deste, pre
 
 Seguem os requisitos:
 · A página deve carregar as informações a partir do arquivo JSON, que deve ser buscado através de fetch, ajax ou xmlhttprequest **Done**
-· A página deve conter uma caixa de busca para filtrar os artigos [Todo]
-· A página deve conter um seletor de ordenameto, para que os artigos sejam exibidos por ordem crescente ou descrecente de título ou de autor[Todo]
+· A página deve conter uma caixa de busca para filtrar os artigos **Done**
+· A página deve conter um seletor de ordenameto, para que os artigos sejam exibidos por ordem crescente ou descrecente de título ou de autor **Done**
 · A página deve exibir na listagem de artigos, apenas as informações básicas. **Done**
-· Limitar a exibição do resumo a 150 caracteres.[Todo]
+· Limitar a exibição do resumo a 150 caracteres. **Done**
 · Ao clicar no artigo exibir as informações detalhadas do mesmo **Done**
 · As cores, fontes e tamanhos a serem usadas como base estão no arquivo style.css **Done**
 

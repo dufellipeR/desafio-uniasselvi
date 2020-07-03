@@ -15,7 +15,7 @@ interface Artigoparams {
   artigo: string;
 }
 
-interface Artigo {
+interface ArtigoProps {
   programa: string;
   area: string;
   projeto: string;
@@ -28,7 +28,7 @@ interface Artigo {
 }
 
 const Details: React.FC = () => {
-  const [artigo, SetArtigo] = useState<Artigo | null>(null);
+  const [artigo, SetArtigo] = useState<ArtigoProps | null>(null);
   const { params } = useRouteMatch<Artigoparams>();
 
   const artigos = [artigo1, artigo2, artigo3, artigo4, artigo5];
@@ -61,10 +61,10 @@ const Details: React.FC = () => {
                     <li className="list-group-item"> </li>
                   </ul>
                   <div id="buttonGroup">
-                    <button type="button" className="btn">
+                    <a download href={artigo.linkDownload}>
                       <FiDownload size={20} /> Download
-                    </button>
-                    <Link to="/" className="btn">
+                    </a>
+                    <Link to="/">
                       <FiChevronLeft size={20} /> Voltar Artigos
                     </Link>
                   </div>
